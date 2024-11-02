@@ -1,0 +1,117 @@
+.hero{
+    display: flex;
+    align-items: center;
+    gap: 45px;
+    flex-direction: column;
+}
+
+.hero img{
+    width: 25%;
+    margin-top: 150px;
+    border-radius: 50%;
+    border: 5px solid white;
+}
+
+.hero h1{
+    text-align: center;
+    width: 70%;
+    font-size: 50px;
+    font-weight: 800;
+}
+
+.hero h1 span{
+    background: linear-gradient(267deg, #da7c25 10%, #b415FF 100%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+
+}
+
+.hero p{
+    width: 65%;
+    text-align: center;
+    font-size: 18px;
+    line-height: 40px;
+}
+
+.hero-action{
+    display: flex;
+    align-items: center;
+    gap: 25px;
+    font-size: 24px;
+    font-weight: 500;
+    margin-bottom: 50px;
+}
+
+.hero-connect{
+    padding: 15px 45px;
+    border-radius: 50px;
+    background: linear-gradient(264deg, #df8908 -5.36%, #b415ff 10.36%);
+    cursor: pointer;
+    font-size: 18px;
+}
+
+.hero-resume a{
+    color: white;
+    text-decoration: none;
+}
+
+
+
+.hero-resume{
+    padding: 15px 75px;
+    border-radius: 50px;
+    border: 2px solid white;
+    cursor: pointer;
+    font-size: 18px;
+}
+
+.hero-connect:hover{
+    border: 2px solid white;
+}
+
+.hero-resume:hover{
+    border: 2px solid #b415ff;
+}
+
+@media(max-width:768px){
+    .hero img{
+        margin-top: 120px;
+        width: 260px;
+    }
+
+    .hero h1{
+        margin-top: 50px;
+        width: 90%;
+        font-size: 33px;
+    }
+
+    .hero p{
+        width: 90%;
+        font-size: 18px;
+        line-height: 30px;
+        margin: 10px 0px;
+    }
+
+    .hero-action{
+        gap: 6px;
+        font-size: 18px;
+        font-weight: 500;
+        margin-bottom: 50px;
+        display: grid;
+    }
+
+    .hero-connect{
+        padding: 20px 50px;
+        border-radius: 40px;
+        font-size: 14px;
+        text-align: center;
+        margin-bottom: 20px;
+    }
+     .hero-resume{
+        padding: 20px 50px;
+        border-radius: 40px;
+        font-size: 14px;
+        text-align: center;
+     }
+}
