@@ -1,9 +1,12 @@
 {
   "files": {
     "main.css": "/portfolio-website/static/css/main.dc989632.css",
-    "main.js": "/portfolio-website/static/js/main.5cb79758.js",
+    "main.js": "/portfolio-website/static/js/main.9ed9a984.js",
     "static/js/453.bb828c5d.chunk.js": "/portfolio-website/static/js/453.bb828c5d.chunk.js",
     "static/media/Itorixinfotech.png": "/portfolio-website/static/media/Itorixinfotech.c59d5faf7daafa0fcf51.png",
+    "static/media/tool.png": "/portfolio-website/static/media/tool.d8bd03584b6d64c99f3a.png",
+    "static/media/kb.png": "/portfolio-website/static/media/kb.814e0a196ad449e0274b.png",
+    "static/media/anu.png": "/portfolio-website/static/media/anu.521510203d6ce634b812.png",
     "static/media/vision.webp": "/portfolio-website/static/media/vision.45fb8fc9851f40717969.webp",
     "static/media/custom.webp": "/portfolio-website/static/media/custom.9cb7f272d5476b5e71d6.webp",
     "static/media/set.webp": "/portfolio-website/static/media/set.2997e485fbe265db7c35.webp",
@@ -25,11 +28,11 @@
     "static/media/mail.webp": "/portfolio-website/static/media/mail.36dc05c2afe79c62182d.webp",
     "index.html": "/portfolio-website/index.html",
     "main.dc989632.css.map": "/portfolio-website/static/css/main.dc989632.css.map",
-    "main.5cb79758.js.map": "/portfolio-website/static/js/main.5cb79758.js.map",
+    "main.9ed9a984.js.map": "/portfolio-website/static/js/main.9ed9a984.js.map",
     "453.bb828c5d.chunk.js.map": "/portfolio-website/static/js/453.bb828c5d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.dc989632.css",
-    "static/js/main.5cb79758.js"
+    "static/js/main.9ed9a984.js"
   ]
 }
