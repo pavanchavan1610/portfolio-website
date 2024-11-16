@@ -10,7 +10,7 @@ import { BrowserRouter, Routes, Route } from 'react-router-dom';
 function App() {
   return (
     <div>
-      <BrowserRouter basename="/portfolio-website">
+      <BrowserRouter basename={process.env.PUBLIC_URL}>
         <Header />
         <Routes>
           <Route path='/' element={<Home />} />
