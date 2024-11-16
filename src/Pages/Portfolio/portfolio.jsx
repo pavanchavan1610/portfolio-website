@@ -13,6 +13,9 @@ import phone from '../../assets/phone.webp'
 import custom from '../../assets/custom.webp'
 import sourayan from '../../assets/sourayan.webp'
 import testing from '../../assets/testing.webp'
+import Anu from '../../assets/anu.png'
+import KB from '../../assets/kb.png'
+import Tools from '../../assets/tool.png'
 
 
 
@@ -105,6 +108,27 @@ const portfolio = () => {
                     </div>
                     <div className="work">
                         <img src={testing} alt="" />
+                        <div className="work-title">
+                            <h3>Testing Shastra</h3>
+                            <Link to="https://www.testingshastra.com/">view Website</Link>
+                        </div>
+                    </div>
+                    <div className="work">
+                        <img src={Anu} alt="" />
+                        <div className="work-title">
+                            <h3>Testing Shastra</h3>
+                            <Link to="https://www.testingshastra.com/">view Website</Link>
+                        </div>
+                    </div>
+                    <div className="work">
+                        <img src={KB} alt="" />
+                        <div className="work-title">
+                            <h3>Testing Shastra</h3>
+                            <Link to="https://www.testingshastra.com/">view Website</Link>
+                        </div>
+                    </div>
+                    <div className="work">
+                        <img src={Tools} alt="" />
                         <div className="work-title">
                             <h3>Testing Shastra</h3>
                             <Link to="https://www.testingshastra.com/">view Website</Link>

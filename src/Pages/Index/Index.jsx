@@ -10,7 +10,6 @@ import vision from '../../assets/vision.webp'
 import master from '../../assets/master.webp'
 import heramb from '../../assets/heramb.webp'
 import { Link } from 'react-router-dom'
-import Connect from '../../Components/Connect/connect'
 import '../Contact/contact'
 
 
@@ -232,11 +231,6 @@ const home = () => {
                 </div>
             </div>
 
-
-
-            {/* Connect Section*/}
-
-            <Connect />
 
         </div>
 
