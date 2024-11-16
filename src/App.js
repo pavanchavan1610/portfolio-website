@@ -5,7 +5,7 @@ import Footer from './Components/Footer/footer'
 import Home from './Pages/Index/Index'
 import Porfolio from './Pages/Portfolio/portfolio'
 import Contact from './Pages/Contact/contact'
-import { BrowserRouter, Routes, Route, HashRouter } from 'react-router-dom';
+import {Routes, Route, HashRouter } from 'react-router-dom';
 
 function App() {
   return (
