@@ -116,22 +116,22 @@ const portfolio = () => {
                     <div className="work">
                         <img src={Anu} alt="" />
                         <div className="work-title">
-                            <h3>Testing Shastra</h3>
-                            <Link to="https://www.testingshastra.com/">view Website</Link>
+                            <h3>Andinwellness</h3>
+                            <Link to="https://anudinwellness.com/">view Website</Link>
                         </div>
                     </div>
                     <div className="work">
                         <img src={KB} alt="" />
                         <div className="work-title">
-                            <h3>Testing Shastra</h3>
-                            <Link to="https://www.testingshastra.com/">view Website</Link>
+                            <h3>KB International</h3>
+                            <Link to="https://kbinternationalxpress.com/">view Website</Link>
                         </div>
                     </div>
                     <div className="work">
                         <img src={Tools} alt="" />
                         <div className="work-title">
-                            <h3>Testing Shastra</h3>
-                            <Link to="https://www.testingshastra.com/">view Website</Link>
+                            <h3>Solicut Tools</h3>
+                            <Link to="https://solicuttools.com/">view Website</Link>
                         </div>
                     </div>
                 </div>
