@@ -27,7 +27,8 @@ const home = () => {
                 </p>
                 <div className="hero-action">
                     <div className="hero-connect"><Link to='/contact'>Connect With Me</Link></div>
-                    <div className="hero-resume"><Link to="https://drive.google.com/file/d/1mfmcw6gDsgSYWdDL7Ov4SJ2dsXD-pCrc/view?usp=sharing">My Resume</Link></div>
+                    <div className="hero-resume"><Link to="https://drive.google.com/file/d/1mfmcw6gDsgSYWdDL7Ov4SJ2dsXD-pCrc/view
+                    // ">My Resume</Link></div>
                 </div>
             </div>
 
